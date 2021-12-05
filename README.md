@@ -1,4 +1,4 @@
-# recommender-system
+# Recommender-system
 Recommender systems are machine learning systems that help users discover new product and services. Every time you shop online, a  recommendation system is guiding you towards the most likely product you might purchase.
 
 The dataset provided contains movie reviews given by Amazon customers. Reviews were 
